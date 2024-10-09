@@ -2,6 +2,8 @@
 
 This Python application provides a simple graphical user interface (GUI) for interacting with the Groq API to send queries and receive responses using a pre-defined AI model (LLAMA-3.1-70B). The application is built with the `Tkinter` library for creating the user interface and threading to ensure smooth interaction without freezing the GUI.
 
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ## Screenshots
 ![Chat Bot Screenshot](Screenshot1.png)
 
