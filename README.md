@@ -5,6 +5,7 @@ This Python application provides a simple graphical user interface (GUI) for int
 ## Screenshots
 ![Chat Bot Screenshot](Screenshot1.png)
 
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
